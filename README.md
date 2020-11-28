@@ -15,7 +15,7 @@
 
 Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=amoldalwai&show_icons=true&theme=gotham" alt="amoldalwai" />
   
 **Talking about Personal Stuffs:**
 
