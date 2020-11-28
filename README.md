@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/amol-dalwai-b258561b9/">
   <img align="left" alt="Amol Dalwai's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/amoldalwai/">
-  <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://amoldalwai.github.io/">
+  <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/me.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amoldalwai.amoldalwai)
