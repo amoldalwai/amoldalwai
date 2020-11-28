@@ -52,7 +52,7 @@ Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/), a Full Stack Developer ðŸš
 
 
 
-ðŸ“ˆ My GitHub Stats
+
 <br>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amoldalwai&show_icons=true&theme=gotham" alt="amoldalwai" />
