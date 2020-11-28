@@ -6,7 +6,7 @@
   <img align="left" alt="Amol Dalwai's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://amoldalwai.github.io/">
-  <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/me.svg" />
+  <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/About.me.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amoldalwai.amoldalwai)
