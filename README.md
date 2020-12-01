@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/). Beside's programming, I enjoy watching historical documentaries.
+Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/),  🚀 from India that loves to bring ideas to life , currently, I'm working on Movie Streaming Application  🙍🏽‍♂️ [@WatchAnyMovie](https://watch-any-movies.web.app/). Beside's programming, I enjoy watching historical documentaries and movies.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
   
