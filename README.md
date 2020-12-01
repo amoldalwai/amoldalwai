@@ -13,17 +13,17 @@
 
 <br />
 
-Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Amol Dalwai](https://amoldalwai.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/). Beside's programming, I enjoy watching historical documentaries.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning MERN Stack; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [@amoldalwai](https://github.com/amoldalwai/);
+- 📝[Resume](https://amoldalwai.github.io/)
 
 **Languages and Tools:**  
 
